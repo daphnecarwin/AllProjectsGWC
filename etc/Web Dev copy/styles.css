@@ -1,0 +1,54 @@
+body{
+  font-family: 'Raleway';
+  text-align: center;
+  background-color:
+  #9ba9c1;
+}
+#title{
+  text-decoration: underline;
+}
+#ab{
+  color: black;
+  text-decoration: underline;
+}
+#ed{
+  color: black;
+  text-decoration: underline;
+}
+#in{
+  color: black;
+  text-decoration: underline;
+}
+#wo{
+  color: black;
+  text-decoration: underline;
+}
+#wa{
+  color: black;
+  text-decoration: underline;
+}
+#co{
+  color: black;
+  text-decoration: underline;
+}
+#a{
+  color: white;
+}
+#b{
+  color: white;
+}
+#c{
+  color: white;
+}
+#d{
+  color: white;
+}
+#e{
+  color: white;
+}
+#f{
+  color: white;
+}
+h1{
+  text-align: center;
+}
